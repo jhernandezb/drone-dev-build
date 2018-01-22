@@ -2,7 +2,7 @@
 
 Dockerfile with multi stage build for latest drone@master
 
-Building
+Build Server
 ```bash
 docker build -t drone .
 ```
